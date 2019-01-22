@@ -16,7 +16,7 @@ https://github.com/gtshs2/Collaborative-Denoising-Auto-Encoder
 source data <br>
 politic_new : made by Kyungwoo Song (under the review paper)
 1990~2016 legislative rollcall dataset (from Govtrack.com) <br>
-download from https://goo.gl/TFvcBc
+download from https://www.dropbox.com/sh/22owwpamgn4ryzj/AACyMnEDqCMThrhUeVTaXiiya?dl=0
 
 ### environment
 python 3.5.2 <br>
